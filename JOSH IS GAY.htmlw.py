@@ -1,8 +1,19 @@
 <!DOCTYPE html>
 <html>
-<head>
-</head>
 <body>
-<h1>Los Angeles Dodgers is G.O.A.T!</h1>
-<body>
+<ul>
+<li>infielder</li> 
+<ul>
+<li>Freddie Freeman</li>
+<ul>
+<li>outfielder</li>
+<ul>
+<li>Espresso</li>
+<li>Cappuccino</li>
+</ul>
+<li>Pitcher</li>
+</ul>
+</ul>
+</ul>
+</body>
 </html>
